@@ -8,7 +8,7 @@ You can use it by downloading the zip file and then opening it in vs code and af
 For more this type of amazing projects follow me on:
 1.[Youtube](https://www.youtube.com/channel/UCP2lVrPy6zrRIMdUvGWsuUw)
 2.[Facebook](https://www.facebook.com/profile.php?id=100012567467237)
-3.[Instagram](https://www.instagram.com/rituraj_singh_33/)
+3.[Instagram](https://www.instagram.com/https.rituraj)
 
 ## ⛔NOTE
 The `all the files` should be downloaded or web would not load as it was.`error may come else`
